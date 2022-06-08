@@ -1,5 +1,5 @@
 body {
-    background: rgb(152, 152, 206);
+    background: rgb(198, 198, 201);
 }
 body {
     font-size: 15px;
@@ -31,4 +31,15 @@ ul li a {
  text-decoration: none;
  color: brown;
  padding: 0 20px;
+}
+
+p {
+    text-align: justify;
+}
+h1 {
+    text-align: center
+}
+
+h2 {
+    text-align: center
 }
